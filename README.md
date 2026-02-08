@@ -29,7 +29,5 @@ Due to Scilab's more limited toolset and package availability compared to platfo
 
 ## System Requirements
 
-**Important:** Ensure correct versions are installed for proper functionality.
-
 - **Scilab**: Version 6.1.1
 - **Tesseract-OCR**: Version 5.4.0 *(Critical - the project will not run correctly without this; can try with other versions or other OCRs)*
